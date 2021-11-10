@@ -2,7 +2,7 @@
 IMDB film review sentiment classification based on BERT's supervised learning model. On the other hand, the model can be extended to other natural language multi-classification tasks.
 
 ---------------------------------------
-Document description
+Documents description
 ---------------------------------------
 ALL_OUTPUT:4组实验运行结果。
 
@@ -36,7 +36,7 @@ Parameters
   --output_dir=output_models/
   
 ------------------------------------------
-The optimization results
+The optimization result
 ------------------------------------------
 Accuracy:\
 0.922（validation set）\
