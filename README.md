@@ -21,7 +21,7 @@ run.py:训练、验证、测试模型时运行的文件。
   --do_train=true \
   --do_eval=true \
   --do_predict=true \
-  --data_dir=D:\XXXXXXX\IMDB\DATA_DIR
+  --data_dir=D:\XXXXXXX\IMDB\DATA_DIR \
   --vocab_file=BERT_BASE_DIR/vocab.txt \
   --bert_config_file=BERT_BASE_DIR/bert_config.json \
   --init_checkpoint=BERT_BASE_DIR/bert_model.ckpt \
