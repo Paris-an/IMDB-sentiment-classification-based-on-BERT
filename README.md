@@ -30,3 +30,6 @@ run.py:训练、验证、测试模型时运行的文件。
   --learning_rate=2e-6 \
   --num_train_epochs=5 \
   --output_dir=output_models/
+  ------------------------------------------
+  Accuracy:0.922(validation set)	0.928（test set）
+  
