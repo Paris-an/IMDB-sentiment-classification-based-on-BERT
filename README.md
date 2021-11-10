@@ -3,11 +3,17 @@ IMDB film review sentiment classification based on BERT's supervised learning mo
 
 ---------------------------------------
 ALL_OUTPUT:4组实验运行结果。
+
 BERT_BASE_DIR:谷歌预训练BERT模型文件。
+
 DATA_DIR:训练集、验证集、测试集文件。
+
 output_models:运行程序时存储输出文件。
+
 Raw_Data:原始数据集以及数据预处理过程涉及到的一些数据文件。
+
 IMDB Parameters:运行‘run.py’文件时需将该文件中的参数传入程序。
+
 run.py:训练、验证、测试模型时运行的文件。
 
 -------------------------------------------
