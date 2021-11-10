@@ -38,6 +38,6 @@ Parameters
 ------------------------------------------
 The optimization results
 ------------------------------------------
-Accuracy:
+Accuracy:\
 0.922（validation set）\
-0.928（test set）/
+0.928（test set）
