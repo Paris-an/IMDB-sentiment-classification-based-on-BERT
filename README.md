@@ -2,6 +2,8 @@
 IMDB film review sentiment classification based on BERT's supervised learning model. On the other hand, the model can be extended to other natural language multi-classification tasks.
 
 ---------------------------------------
+Document description
+---------------------------------------
 ALL_OUTPUT:4组实验运行结果。
 
 BERT_BASE_DIR:谷歌预训练BERT模型文件。
@@ -16,6 +18,8 @@ IMDB Parameters:运行‘run.py’文件时需将该文件中的参数传入程�
 
 run.py:训练、验证、测试模型时运行的文件。
 
+-------------------------------------------
+Parameters
 -------------------------------------------
   --task_name=mrpc \
   --do_train=true \
@@ -32,6 +36,6 @@ run.py:训练、验证、测试模型时运行的文件。
   --output_dir=output_models/
   
 ------------------------------------------
-Accuracy:0.922(validation set)  0.928（test set）
+The optimization results
 ------------------------------------------
-  
+Accuracy:0.922(validation set)|||0.928（test set）
