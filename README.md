@@ -10,7 +10,7 @@ BERT_BASE_DIR:谷歌预训练BERT模型文件。
 
 DATA_DIR:训练集、验证集、测试集文件。
 
-output_models:运行程序时存储输出文件。
+output_models:空文件夹，运行程序时存储输出文件。
 
 Raw_Data:原始数据集以及数据预处理过程涉及到的一些数据文件。
 
