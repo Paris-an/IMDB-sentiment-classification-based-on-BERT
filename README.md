@@ -41,3 +41,9 @@ The optimization result
 Accuracy:\
 0.922（validation set）\
 0.928（test set）
+
+------------------------------------------
+File distribution
+------------------------------------------
+![image](https://user-images.githubusercontent.com/71426628/141113092-585412e6-de1a-4c93-bec4-161791120770.png)
+
